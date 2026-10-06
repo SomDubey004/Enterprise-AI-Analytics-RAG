@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Enterprise AI Analytics and RAG Data Platform"
 requires-python = ">=3.12,<3.13"
 dependencies = [
+    "pydantic (>=2.13.5,<3.0.0)"
 ]
 
 [tool.poetry]
